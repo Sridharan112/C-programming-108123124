@@ -12,7 +12,7 @@ int main()
 	printf("The sum of numbers is %d",c);
 	printf("The difference of numbers is %d",d);
 	printf("The product of numbers is %d",e);
-	printf("The division of numbers is %d",f);
+	printf("The division of numbers is %f",f);
 	printf("The modulus of numbers is %d",g);
 	return 0;
 	
