@@ -5,7 +5,7 @@ int main()
 	int a;
 	float b;
 	scanf("%d",&a);
-	b=pow(a,0.333333333333333333333333);
+	b=pow(a,3);
 	printf("%f",b);
 	return 0;
 	
